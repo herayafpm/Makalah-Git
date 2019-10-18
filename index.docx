@@ -20,9 +20,19 @@ Jika Git adalah jantung maka Hub adalah jiwa github, sistem hub yang ada pada Gi
 Github dimulai pada tanggal 19 Oktober 2007. dan diluncurkan pada April 2008 oleh Tom Peterson-Werner,Chris Wanstrath, dan PJ Hyett.
 Github pertama kali dibangun pada October 2007 ( First Commit ), markas besarnya berada di San Francisco, Pada saat tahun pertama online github telah mengumpulkan lebih dari 46.000 repositori publik, Pada tanggal 4 Juni 2018, Microsoft mengakuisisi Github Sebesar 7,5 miliar dollar.
 
+Manfaat dari Github :
+ - Memudahkan kita untuk berpartisipasi dalam pengembangan software open-source favoritmu
+ - Memudahkan untuk dokumentasi dari projek
+ - Repositori/folder/file yang kita buat bisa disimpan secara offline maupun online
+ - Memiliki aplikasi desktop maupun website yang memiliki banyak fitur-fitur menunjang developer yang bekerja secara berjauhan maupun berpindah pindah tempat
+ - Fitur fitur social tambahan seperti follow akun user github lainnya, membookmark suatu project dan lain lain.
+
+Bisa disimpulkan bahwa github menggunakan git sebagai pengontrol versi sistemnya sehingga fungsi utama dari GIT yaitu memanajemen sebuah file maupun maupun sekumpulan kode program, dan kita bisa membagikannya ke banyak orang agar mereka bisa ikut berkontribusi dalam membangun projek yang kita buat maupun sebaliknya, dan Github itu seperti jejaring sosialnya para pengembang aplikasi di seluruh dunia.
+
 
 Daftar Pustaka:
  - https://git-scm.com/book/id/v1/Memulai-Git-Sejarah-Singkat-Git
  - https://www.hostinger.co.id/tutorial/apa-itu-github/
  - https://id.wikipedia.org/wiki/GitHub
  - https://github.com/about
+ - https://bierpinter.com/web-tutorial/apa-itu-github-dan-manfaatnya-untuk-para-developer/
