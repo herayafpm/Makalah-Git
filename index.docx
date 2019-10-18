@@ -27,6 +27,13 @@ Manfaat dari Github :
  - Memiliki aplikasi desktop maupun website yang memiliki banyak fitur-fitur menunjang developer yang bekerja secara berjauhan maupun berpindah pindah tempat
  - Fitur fitur social tambahan seperti follow akun user github lainnya, membookmark suatu project dan lain lain.
 
+Pada Senin 4 Juni 2018 terdapat kabar yang menghebihkan dunia programming diseluruh dunia, sebuah perusahaan software raksasa, microsoft membeli Github setara dengan $7.4 billion, Banyak pro kontra menyertai hal ini mengingat Github merupakan repositori project  yang berbasis open source dan banyak yang menantikan atau malah harap - harap cemas akan aksi korporasi apa yang akan microsoft lakukan menyiasati akuisisi ini. Kecemasan para developer ini cukup beralasan mengingat beberapa portfolio akuisisi microsoft cukup banyak yang berakhir buruk entah itu terpaksa disuntik mati atau perkembangannya menjadi tidak jelas dan sulit dipertahankan, meskipun harus diakui banyak juga akuisisi briliant yang dilakukan oleh microsoft, salah satu contoh populernya adalah skype. Microsoft dibawah CEO nya saat ini, Satya Nadela mulai membuka ruang diskusi yang cukup intens dengan kalangan open source, model bisnis yang sebelumnya dipandang sinis oleh microsoft karena bisnis model utama mereka adalah menjual proprietary source, yakni proyek perangkat lunak yang dilindungi oleh hukum dan HAKI (Hak Kekayaan Intelektual) baik itu penggunaan, pembelajaran, ataupun modifikasinya.
+
+Microsoft dibawah satya nadela mulai membuka ruang diskusi karena melihat masifnya ekosistem open source yang dicontohkan oleh Linux dan juga Android, namun sikap permisif ini juga masih ditanggapi sinis oleh sebagian kalangan penganut open source, benarkah microsoft benar-benar tulus untuk tidak “memusuhi” open source lagi dan malah mulai mengadopsi model bisnisnya? tentu hanya manajemen pusat microsoft yang tau akan hal ini, namun ada gelagat microsoft mulai kendor terhadap open source dengan diluncurkannya ponsel Nokia berbasis android, seperti diketahui bahwa nokia juga telah di beli oleh microsoft beberapa tahun lalu.
+
+Ada beberapa pihak yang memperikarakan langkah pembelian github oleh microsoft ini bisa jadi adalah langkah untuk membaca trend software yang berkembang. Dengan memiliki pusatnya repository code dan project software, microsoft dianggap akan cukup mudah untuk membaca trend software apa yang sedang dan akan happening. Dengan satu keunggulan ini saja microsoft akan dengan mudah mengepakkan sayap meninggalkan rival-rival lain mereka di bisnis piranti lunak.
+Ada juga yang memperkirakan microsoft ini merupakan upaya terjun langsung ke benteng utama para developers dunia, disini microsoft bisa menjaring developer-developer handal dengan skema open source dan mengembangkan ekosistem developer yang saling menguntungkan.
+
 Bisa disimpulkan bahwa github menggunakan git sebagai pengontrol versi sistemnya sehingga fungsi utama dari GIT yaitu memanajemen sebuah file maupun maupun sekumpulan kode program, dan kita bisa membagikannya ke banyak orang agar mereka bisa ikut berkontribusi dalam membangun projek yang kita buat maupun sebaliknya, dan Github itu seperti jejaring sosialnya para pengembang aplikasi di seluruh dunia.
 
 
@@ -36,3 +43,4 @@ Daftar Pustaka:
  - https://id.wikipedia.org/wiki/GitHub
  - https://github.com/about
  - https://bierpinter.com/web-tutorial/apa-itu-github-dan-manfaatnya-untuk-para-developer/
+ - https://teknonisme.com/microsoft-beli-github-selanjutnya-apa/
