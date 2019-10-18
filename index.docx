@@ -7,3 +7,12 @@ Pesaing
 Dampak ( pro/kontra)
 Masalah/ Kendala
 Solusi
+
+A. Sejarah singkat GIT
+Git merupakan sistem pengontrol versi yang dikembangkan oleh Linus Torvalds ( pencipta dan pengembang Linux ), ketika para pengembang perangkat lunak brau, seorang pengembang tetap harus meningkatkan versi sitemnya, memperbaiki bug, menambahkan fitur baru. Sistem pengontrol versi membatu para pengembang untuk melacak setiap baris kode, memulihkan kode yang telah dihapus atau dimodifikasi. Seperti halnya proyek lainnya, pada awal proses pengembangan git memiliki sedikti permasalahan dan kontroversi. Kernel Linuc merupakan proyek perangkat lunak open source dengan skala yang besar. Sepanjang perjalanan perawatan Kernel Linux (1991 - 2002), perubahan disimpan sebagai arsip arsip berkas, pada tahun 2002, kernel linux mulai menggunakan salah satu sistem pengontol versi terdistribusi bernama BitKeeper. namun pada tahun 2005, hubungan komunitas pengembang kernel linux dengan perusahaan yang mengembangkan Bitkeeper retak, dan status "gratis" pada BitKeeper dicabut. Hal ini membuat komunitas pengembang Kernel Linux( khususnya sang pencipta Linux ) harus mengembangkan perkakas sendiri dengan berbekal pengalaman yang telah mereka peroleh menggunakan BitKeeper. Dan sistem tersebut diharapkan dapat memenuhi beberapa hal berikut:
+  - Kecepatan
+  - Desain yang sederhana
+  - Dukungan penuh untuk pengembangan non-linier(ribuan cabang paralel)
+  - Terdistribusi secara penuh
+  - Mampu menangani proyek besar seperti Kernel Linux secara efisien( dalam kecepatan dan ukuran data )
+ Sejak kelahirannya pada tahun 2005, Git telah berkembang dan semakin mudah digunakkan serta hingga saat ini masih mempertahankan kualitasnya tersebut. Git luar biasa cepat, sangan efisien dalam proyek besar, dan memiliki sistem pencabangan yang luar biasa.
