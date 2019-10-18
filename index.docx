@@ -8,7 +8,7 @@ Dampak ( pro/kontra)
 Masalah/ Kendala
 Solusi
 
-A. Sejarah singkat GIT
+A. Sejarah singkat GITHUB
 Git merupakan sistem pengontrol versi yang dikembangkan oleh Linus Torvalds ( pencipta dan pengembang Linux ), ketika para pengembang perangkat lunak brau, seorang pengembang tetap harus meningkatkan versi sitemnya, memperbaiki bug, menambahkan fitur baru. Sistem pengontrol versi membatu para pengembang untuk melacak setiap baris kode, memulihkan kode yang telah dihapus atau dimodifikasi. Seperti halnya proyek lainnya, pada awal proses pengembangan git memiliki sedikti permasalahan dan kontroversi. Kernel Linuc merupakan proyek perangkat lunak open source dengan skala yang besar. Sepanjang perjalanan perawatan Kernel Linux (1991 - 2002), perubahan disimpan sebagai arsip arsip berkas, pada tahun 2002, kernel linux mulai menggunakan salah satu sistem pengontol versi terdistribusi bernama BitKeeper. namun pada tahun 2005, hubungan komunitas pengembang kernel linux dengan perusahaan yang mengembangkan Bitkeeper retak, dan status "gratis" pada BitKeeper dicabut. Hal ini membuat komunitas pengembang Kernel Linux( khususnya sang pencipta Linux ) harus mengembangkan perkakas sendiri dengan berbekal pengalaman yang telah mereka peroleh menggunakan BitKeeper. Dan sistem tersebut diharapkan dapat memenuhi beberapa hal berikut:
   - Kecepatan
   - Desain yang sederhana
@@ -16,3 +16,13 @@ Git merupakan sistem pengontrol versi yang dikembangkan oleh Linus Torvalds ( pe
   - Terdistribusi secara penuh
   - Mampu menangani proyek besar seperti Kernel Linux secara efisien( dalam kecepatan dan ukuran data )
  Sejak kelahirannya pada tahun 2005, Git telah berkembang dan semakin mudah digunakkan serta hingga saat ini masih mempertahankan kualitasnya tersebut. Git luar biasa cepat, sangan efisien dalam proyek besar, dan memiliki sistem pencabangan yang luar biasa.
+Jika Git adalah jantung maka Hub adalah jiwa github, sistem hub yang ada pada Github berfungsi untuk mengubah baris perintah. yang mana menjadi jaringan media sosial terbesar bagi para developer.
+Github dimulai pada tanggal 19 Oktober 2007. dan diluncurkan pada April 2008 oleh Tom Peterson-Werner,Chris Wanstrath, dan PJ Hyett.
+Github pertama kali dibangun pada October 2007 ( First Commit ), markas besarnya berada di San Francisco, Pada saat tahun pertama online github telah mengumpulkan lebih dari 46.000 repositori publik, Pada tanggal 4 Juni 2018, Microsoft mengakuisisi Github Sebesar 7,5 miliar dollar.
+
+
+Daftar Pustaka:
+ - https://git-scm.com/book/id/v1/Memulai-Git-Sejarah-Singkat-Git
+ - https://www.hostinger.co.id/tutorial/apa-itu-github/
+ - https://id.wikipedia.org/wiki/GitHub
+ - https://github.com/about
